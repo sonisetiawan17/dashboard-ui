@@ -14,9 +14,8 @@ const Outlet = () => {
             <Image
               alt="Logo"
               src="/icons/down.png"
-              width="16"
-              height="16"
-              className="w-4 h-4"
+              width="14"
+              height="14"
             />
           </div>
         </div>
