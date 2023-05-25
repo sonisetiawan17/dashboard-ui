@@ -36,8 +36,7 @@ const Sidebar = () => {
               alt="Logo"
               src="/icons/down.png"
               width="16"
-              height="16"
-              className="w-4 h-4"
+              height="16"            
             />
           </div>
         </div>
@@ -57,7 +56,6 @@ const Sidebar = () => {
               src="/icons/down.png"
               width="16"
               height="16"
-              className="w-4 h-4"
             />
           </div>
         </div>
@@ -72,7 +70,6 @@ const Sidebar = () => {
               src="/icons/down.png"
               width="16"
               height="16"
-              className="w-4 h-4"
             />
           </div>
         </div>
@@ -92,7 +89,6 @@ const Sidebar = () => {
               src="/icons/down.png"
               width="16"
               height="16"
-              className="w-4 h-4"
             />
           </div>
         </div>
@@ -107,7 +103,6 @@ const Sidebar = () => {
               src="/icons/down.png"
               width="16"
               height="16"
-              className="w-4 h-4"
             />
           </div>
         </div>
@@ -130,7 +125,6 @@ const Sidebar = () => {
               src="/icons/down.png"
               width="16"
               height="16"
-              className="w-4 h-4"
             />
           </div>
           {toggle && (
@@ -143,7 +137,6 @@ const Sidebar = () => {
                   src="/icons/down.png"
                   width="16"
                   height="16"
-                  className="w-4 h-4"
                 />
               </div>
               <p className="py-[10px] pl-[20px]">Daftar Pemasok (Suplier)</p>
